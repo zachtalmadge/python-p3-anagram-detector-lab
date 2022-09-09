@@ -26,7 +26,7 @@ is an object-oriented programming language.
 This is a **test-driven lab**. Run `pipenv install` to create your virtual
 environment and `pipenv shell` to enter the virtual environment. Then run
 `pytest -x` to run your tests. Use these instructions and `pytest`'s error
-messages to complete your work in the `app/` folder.
+messages to complete your work in the `lib/` folder.
 
 You will write a program that, given a word and a list of possible
 [anagrams][anagrams], selects the correct one(s).
