@@ -50,9 +50,9 @@ Write your solution in `lib/anagram.py`.
 Once all of your tests are passing, commit and push your work using `git` to
 submit.
 
-This is a difficult lab that will require some algorithmic thinking! Try breaking
-writing out some pseudocode and break the problem down into smaller steps before
-writing out your implementation.
+This is a difficult lab that will require some algorithmic thinking! Try writing
+some pseudocode and break the problem down into smaller steps before writing out
+your implementation.
 
 **Hints:**
 
@@ -94,7 +94,7 @@ sorted([1, 3, 2]) == sorted([3, 2, 1])
 
 ## Resources
 
-[5. Data Structures - Python](https://docs.python.org/3/tutorial/datastructures.html)
-[Python sorted() Function - W3schools](https://www.w3schools.com/python/ref_func_sorted.asp#:~:text=The%20sorted()%20function%20returns,string%20values%20AND%20numeric%20values.)
+- [5. Data Structures - Python](https://docs.python.org/3/tutorial/datastructures.html)
+- [Python sorted() Function - W3schools](https://www.w3schools.com/python/ref_func_sorted.asp#:~:text=The%20sorted()%20function%20returns,string%20values%20AND%20numeric%20values.)
 
 [anagrams]: http://www.dictionary.com/browse/anagram
